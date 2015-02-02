@@ -79,7 +79,7 @@ a:hover{
 .right-panel-wrapper{
    height:240px;
    padding:50px 50px 0 50px;
-   background:url("images/bg-right-panel.png")  0 0 no-repeat;
+   background:url("../img/bg-right-panel.png")  0 0 no-repeat;
 }
 ul.contact{
     list-style:none;
@@ -108,7 +108,7 @@ ul.contact{
     margin: 0 auto;
     width: 960px;
     height:85px;
-     background:url("images/shadow_menu.png") 10px 63px no-repeat;
+     background:url("../img/shadow_menu.png") 10px 63px no-repeat;
 }
 .menu-wrapper{
     padding-left:30px;
@@ -125,7 +125,7 @@ ul.contact{
 .menu-wrapper a{
     color:#787878;
     text-decoration:none;
-    background: url("images/button.png") no-repeat;
+    background: url("../img/button.png") no-repeat;
     display:block;
 }
 .menu-wrapper a:hover{
@@ -240,7 +240,7 @@ ul.list{
 }
 .footer {
     margin: -56px auto 0 auto;
-    background: #e8e7e7 url("images/shadow_footer.gif") repeat-x;
+    background: #e8e7e7 url("../img/shadow_footer.gif") repeat-x;
     color: #747474;
     height: 55px;
     font: 12px/18px Arial;
@@ -281,7 +281,7 @@ cursor: pointer;
 padding-left: 15px;
 padding-right: 15px;
 margin-right: 5px;
-background: url('images/button_add.png');
+background: url('../img/button_add.png');
 margin-left:20px;
 }
 .button.abitur{
@@ -375,7 +375,7 @@ a:link, a:visited {
     width: 111px;
 }
 .img-teach img {
-	background: url("images/shadow_img.gif") no-repeat 0 100%;
+	background: url("../img/shadow_img.gif") no-repeat 0 100%;
 	padding: 0 0 18px;
 }
 .teach-bl p {
@@ -395,7 +395,7 @@ a:link, a:visited {
 	color: #5A9835;
 }
 .it-olimpiada {
-	background: url("images/shadow_olimpiada.jpg") no-repeat 0 100%;
+	background: url("../img/shadow_olimpiada.jpg") no-repeat 0 100%;
 	width: 100%;
 	padding: 27px 0 21px;
 	margin: 0 0 31px;
@@ -432,7 +432,7 @@ a:link, a:visited {
     width: 360px;
 }
 .down-help {
-	background: url("images/ico-pdf.gif") no-repeat 0 3px;
+	background: url("../img/ico-pdf.gif") no-repeat 0 3px;
     float: right;
     margin: 47px 6px 0 0;
     padding: 0 0 0 25px;
